@@ -1,9 +1,8 @@
-html{
-    overflow-x: hidden;
-}
+html
 body{
     margin: 0px!important;
     padding: 0px!important;
+    overflow-x: hidden;
 }
 /* .gheader{
     position: relative;
@@ -57,15 +56,15 @@ ul li a:hover{
     position: relative;
     top: -230px;
 }
-.header{
+/* .header{
     position: relative;
     top: -230px;
-}
+} */
 .search
 {
     position: relative;
     top: -250px;
-    background-color: #F5F5F5;
+    background-color: #fff;
     margin: 0px;
     padding: 10px;
 }
@@ -88,6 +87,7 @@ ul li a:hover{
     width: 10em;
 
 }
+
 /* .search
 {
     background-color: #F5F5F5;
@@ -158,11 +158,11 @@ ul li a:hover{
 	margin-left: 530px;
 	color: white;
 }
-.cols2:hover {
+.boxy1:hover {
   background: #fafafa;
   box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
   }
-  .cols2 {
+  .boxy1 {
   text-align: center;
   border-radius: 3px;
   margin: 1.5rem 1rem;
@@ -179,7 +179,7 @@ ul li a:hover{
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.gnrl{
+.mode2{
   display: flex;
   padding-right: 30px;
   padding-left: 30px;
@@ -243,6 +243,127 @@ input[type=search]{
     outline: none;
     border-bottom: 1px solid black;
     background-color: transparent;
+}
+.img2{
+    position: relative;
+    padding-left: 1100px;
+    top: -10px;
+}
+.devise{
+    position: relative;
+    padding-left: 900px;
+    top: 65px;
+}
+.img1{
+    position: relative;
+    top: 235px;
+    padding-left: 150px;
+}
+.sp2{
+    position: relative;
+    top: 110px;
+    padding-left: 250px;
+}
+.sp{
+    position: relative;
+    padding-left: 250px;
+    top: 120px;
+}
+.header{
+    background-color: #002A40;
+    height: 70px;
+    padding-left: 200px;
+    padding-top: 8px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+ul li a{
+    color: #fff;
+    letter-spacing: 0,1rem;
+}
+ul li a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.hautdepage{
+    position: relative;
+    top: -230px;
+}
+.header{
+    position: relative;
+    top: -230px;
+}
+.button{
+	background-color: #F44336;
+    left: 475px;
+    position: relative;
+    height: 4em;
+    border: none;
+    border-radius: 0 0.5em 0.5em 0 ;
+    width: 10em;
+}
+.background{
+	background-color: #002a40;
+    position:relative;
+    top: -275px;
+    display: flex;
+    flex-direction: row;
+}
+.papa{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    width: 100%;
+    background-color: #002A40;
+}
+.ground{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    left: 14px;
+}
+.s{
+    color: #f5f5f5;
+    flex-direction: row;
+}
+.flech{
+    color: #fff;
+
+}
+.entreprise{
+    color: #fff;
+}
+.sect2{
+    display: flex;
+}
+.sect21{
+    display: flex;
+    flex-direction: row;
+}
+.part1{
+    color: #448AFF;
+    display: flex;
+    flex-direction: column;
+    border-style: groove;
+}
+.hamed{
+    display: flex;
+    border-bottom: 1px solid #ccc;
+}
+.part2{
+    color: #F44336;
+    border: #F44336 1px solid;
+    height: 1150px;
+}
+.part3{
+    color: aqua;
+    border: #002A40 1px solid;
+    height: 150px;
+    background-color: #002A40;
 }
 footer
 {
