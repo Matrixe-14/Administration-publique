@@ -350,14 +350,18 @@ ul li a:hover{
     flex-direction: column;
     border-style: groove;
 }
-.hamed{
+.ho{
     display: flex;
     border-bottom: 1px solid #ccc;
 }
+.o{
+    
+}
 .part2{
-    color: #F44336;
-    border: #F44336 1px solid;
-    height: 1150px;
+    color: #0e0d0d;
+    border: #141414 1px solid;
+    height: 1445px;
+    
 }
 .part3{
     color: aqua;
